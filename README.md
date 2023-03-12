@@ -2,7 +2,7 @@
 
 
 # 💫 About Me: <br><br>
-🔭 I’m currently working on Music-player <img align="right" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" alt="coding" width="500"><br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about react, JavaScript, Bootstrap, Sanity<br><br>📫 How to reach me akashshahngu@gmail.com
+🔭 I’m currently working on Music-player <img align="right" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" alt="coding" width="40%"><br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about react, JavaScript, Bootstrap, Sanity<br><br>📫 How to reach me akashshahngu@gmail.com
 
 
 ## 🌐 Socials:
