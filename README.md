@@ -1,8 +1,11 @@
 <h1 align="center">💫 Hey! there, My name is Akash Shah and I am a Passionate Developer</h1>
+
+<div style="display:flex">
 # 💫 About Me: <br><br>
 🔭 I’m currently working on Music-player<br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about react, JavaScript, Bootstrap, Sanity<br><br>📫 How to reach me akashshahngu@gmail.com
 
-<img src="https://thumbs.gfycat.com/SociableCleanErmine-max-1mb.gif" alt="coding" width="100">
+<img src="https://thumbs.gfycat.com/SociableCleanErmine-max-1mb.gif" alt="coding" width="400">
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@codingDestini) 
