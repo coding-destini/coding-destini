@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hey! there, My name is Akash Shah and I am a Passionate Developer</h1>
-# 💫 About Me:
+# 💫 About Me: <br>
 🔭 I’m currently working on Music-player<br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about react, JavaScript, Bootstrap, Sanity<br><br>📫 How to reach me akashshahngu@gmail.com
 
 
