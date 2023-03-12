@@ -2,9 +2,8 @@
 
 <span style="display:flex">
 # 💫 About Me: <br><br>
-🔭 I’m currently working on Music-player<br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about react, JavaScript, Bootstrap, Sanity<br><br>📫 How to reach me akashshahngu@gmail.com
+🔭 I’m currently working on Music-player <img align="right" src="https://thumbs.gfycat.com/SociableCleanErmine-max-1mb.gif" alt="coding" width="600"><br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about react, JavaScript, Bootstrap, Sanity<br><br>📫 How to reach me akashshahngu@gmail.com
 
-<img align="right" src="https://thumbs.gfycat.com/SociableCleanErmine-max-1mb.gif" alt="coding" width="800">
 </span>
 
 ## 🌐 Socials:
