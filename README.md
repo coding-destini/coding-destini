@@ -2,6 +2,7 @@
 # 💫 About Me: <br><br>
 🔭 I’m currently working on Music-player<br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about react, JavaScript, Bootstrap, Sanity<br><br>📫 How to reach me akashshahngu@gmail.com
 
+<img src="https://thumbs.gfycat.com/SociableCleanErmine-max-1mb.gif" alt="coding" width="100">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@codingDestini) 
