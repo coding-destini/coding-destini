@@ -1,6 +1,5 @@
 
-<div align="center" style="height=""300"><img src="https://i.gifer.com/39Cg.gif" alt="coding" width"500"></div>
-<h1 align="center">Hi 👋, I'm Akash Shah</h1>
+<img src="https://i.gifer.com/39Cg.gif" alt="coding" width"500">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
