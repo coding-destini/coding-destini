@@ -27,9 +27,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=coding-destini&label=Profile%20Views&color=2&icon=4&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=coding-destini&label=Profile%20Views&color=2&icon=4&pretty=false" />
-</a>
+
 
 
   ## 💰 You can help me by Donating
